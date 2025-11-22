@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Watches",
+    "percentage": -25,
+    "image": "/smart Watches.png"
+  },
+  {
+    "name": "Laptops",
+    "percentage": -15,
+    "image": "/Laptops.png"
+  },
+  {
+    "name": "GoProCameras",
+    "percentage": -40,
+    "image": "/GoPro cameras.png"
+  },
+  {
+    "name": "HeadPhones",
+    "percentage": -25,
+    "image": "/HeadPhones.png"
+  },
+  {
+    "name": "CanonCamreras",
+    "percentage": -25,
+    "image": "/Canon camreras.png"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "image": "/Ritem2.png",
+    "price": 23,
+    "name": "Jeans shorts for menblue color"
+  },
+
+  {
+    "image": "/Ritem3.png",
+    "price": 23,
+    "name": "Brown winter coatmedium size"
+  },
+  {
+    "image": "/Ritem4.png",
+    "price": 23,
+    "name": "Jeans bag for travelfor men"
+  },
+  {
+    "image": "/Ritem1.jpg",
+    "price": 23,
+    "name": "T-shirts with multiple c"
+  },
+  {
+    "image": "/Ritem5.png",
+    "price": 23,
+    "name": "Leather wallet"
+  },
+  {
+    "image": "/Canon camreras.png",
+    "price": 23,
+    "name": "Canon camera black, 100x zoom"
+  },
+  {
+    "image": "/HeadPhones.png",
+    "price": 23,
+    "name": "Headset for gamingwith mic"
+  },
+
+  {
+    "image": "/smart Watches.png",
+    "price": 23,
+    "name": "Smartwatchsilver color modern"
+  },
+  {
+    "image": "/Ritem6.png",
+    "price": 23,
+    "name": "Blue wallet for menleather metarfial"
+  },
+  {
+    "image": "/outdoor8.png",
+    "price": 23,
+    "name": "Jeans bag for travelfor men"
+  }
+]

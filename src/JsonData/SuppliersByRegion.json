@@ -1,0 +1,52 @@
+[
+  {
+    "flag": "/flag1.png",
+    "name": "Arabic Emirates",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag2.png",
+    "name": "Australia",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag3.png",
+    "name": "Unity States",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag4.png",
+    "name": "Russia",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag5.png",
+    "name": "Italy",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag6.png",
+    "name": "Denmark",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag7.png",
+    "name": "France",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag8.png",
+    "name": "Arabic Emirates",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag9.png",
+    "name": "China",
+    "visit": "shopname.ae"
+  },
+  {
+    "flag": "/flag10.png",
+    "name": "Great Britain",
+    "visit": "shopname.ae"
+  }
+]

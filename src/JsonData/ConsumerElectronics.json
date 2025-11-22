@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Watches",
+    "From": "From",
+    "Price": "USD 19",
+    "image": "/smart Watches.png"
+  },
+  {
+    "name": "Cameras",
+    "From": "From",
+    "Price": "USD 29",
+    "image": "/GoPro cameras.png"
+  },
+  {
+    "name": "HeadPhones",
+    "From": "From",
+    "Price": "USD 15",
+    "image": "/outdoor9.png"
+  },
+  {
+    "name": "Electric kattle",
+    "From": "From",
+    "Price": "USD 12",
+    "image": "/outdoor10.png"
+  },
+  {
+    "name": "HeadPhones",
+    "From": "From",
+    "Price": "USD 17",
+    "image": "HeadPhones.png"
+  },
+  {
+    "name": "Laptops",
+    "From": "From",
+    "Price": "USD 49",
+    "image": "/Laptops.png"
+  },
+  {
+    "name": "Cameras",
+    "From": "From",
+    "Price": "USD 29",
+    "image": "/Canon camreras.png"
+  },
+  {
+    "name": "Mobiles",
+    "From": "From",
+    "Price": "USD 79",
+    "image": "/outdoor11.png"
+  }
+]
