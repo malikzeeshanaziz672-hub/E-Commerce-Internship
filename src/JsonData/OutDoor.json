@@ -1,50 +1,66 @@
 [
   {
+    "id": 231,
     "name": "Soft Chairs",
     "From": "From",
     "Price": "USD 19",
-    "image": "/outdoor 1.png"
+    "image": "/outdoor 1.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 232,
     "name": "Sofa & Chairs",
     "From": "From",
     "Price": "USD 39",
-    "image": "/outdoor2.png"
+    "image": "/outdoor2.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 233,
     "name": "Watches",
     "From": "From",
     "Price": "USD 12",
-    "image": "/outdoor3.png"
+    "image": "/outdoor3.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 234,
     "name": "Kitchen mixer",
     "From": "From",
     "Price": "USD 34",
-    "image": "/outdoor4.png"
+    "image": "/outdoor4.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 235,
     "name": "Kitchen mixer",
     "From": "From",
     "Price": "USD 19",
-    "image": "/outdoor5.png"
+    "image": "/outdoor5.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 236,
     "name": "Blenders",
     "From": "From",
     "Price": "USD 13",
-    "image": "/outdoor6.png"
+    "image": "/outdoor6.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 237,
     "name": "HomeAppliance",
     "From": "From",
     "Price": "USD 65",
-    "image": "/outdoor10.png"
+    "image": "/outdoor10.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 238,
     "name": "Coffee Maker",
     "From": "From",
     "Price": "USD 35",
-    "image": "/outdoor8.png"
+    "image": "/outdoor8.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   }
 ]

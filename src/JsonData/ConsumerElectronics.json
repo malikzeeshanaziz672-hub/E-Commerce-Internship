@@ -1,50 +1,66 @@
 [
   {
+    "id": 2381,
     "name": "Watches",
     "From": "From",
     "Price": "USD 19",
-    "image": "/smart Watches.png"
+    "image": "/smart Watches.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2382,
     "name": "Cameras",
     "From": "From",
     "Price": "USD 29",
-    "image": "/GoPro cameras.png"
+    "image": "/GoPro cameras.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2383,
     "name": "HeadPhones",
     "From": "From",
     "Price": "USD 15",
-    "image": "/outdoor9.png"
+    "image": "/outdoor9.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2384,
     "name": "Electric kattle",
     "From": "From",
     "Price": "USD 12",
-    "image": "/outdoor10.png"
+    "image": "/outdoor10.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2385,
     "name": "HeadPhones",
     "From": "From",
     "Price": "USD 17",
-    "image": "HeadPhones.png"
+    "image": "HeadPhones.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2386,
     "name": "Laptops",
     "From": "From",
     "Price": "USD 49",
-    "image": "/Laptops.png"
+    "image": "/Laptops.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2387,
     "name": "Cameras",
     "From": "From",
     "Price": "USD 29",
-    "image": "/Canon camreras.png"
+    "image": "/Canon camreras.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 2388,
     "name": "Mobiles",
     "From": "From",
     "Price": "USD 79",
-    "image": "/outdoor11.png"
+    "image": "/outdoor11.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   }
 ]

@@ -1,27 +1,37 @@
 [
   {
+    "id": 9000,
     "name": "Watches",
     "percentage": -25,
-    "image": "/smart Watches.png"
+    "image": "/smart Watches.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 9001,
     "name": "Laptops",
     "percentage": -15,
-    "image": "/Laptops.png"
+    "image": "/Laptops.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 9002,
     "name": "GoProCameras",
     "percentage": -40,
-    "image": "/GoPro cameras.png"
+    "image": "/GoPro cameras.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 9003,
     "name": "HeadPhones",
     "percentage": -25,
-    "image": "/HeadPhones.png"
+    "image": "/HeadPhones.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 9004,
     "name": "CanonCamreras",
     "percentage": -25,
-    "image": "/Canon camreras.png"
+    "image": "/Canon camreras.png",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   }
 ]

@@ -1,6 +1,7 @@
 import React from "react";
 import outDoorImg from "../assets/Images/Group 969.png";
 import outDoorData from "../JsonData/OutDoor.json";
+import { NavLink } from "react-router-dom";
 
 const OutDoor = () => {
   return (
@@ -30,7 +31,13 @@ const OutDoor = () => {
                   <p className="text-gray-500">{data.Price}</p>
                 </div>
                 <div className="w-21 h-21">
-                  <img className="w-full h-full" src={data.image} alt="" />
+                  <NavLink to={`/detail/${data.id}`}>
+                    <img
+                      className="w-full h-full"
+                      src={data.image}
+                      alt="..Loading"
+                    />
+                  </NavLink>
                 </div>
               </div>
             </div>
@@ -41,22 +48,25 @@ const OutDoor = () => {
           <h1 className=" ml-4 text-lg mb-5">Home and Outdoor</h1>
           <div className="flex overflow-x-auto overflow-y-hidden w-full bg-white ">
             {outDoorData.map((data) => (
-              <div className="flex flex-col text-center  justify-center items-center gap-2 h-50 pl-6 pr-6 border border-gray-300">
+              <div
+                key={data.id}
+                className="flex flex-col text-center justify-center items-center gap-2 h-50 pl-6 pr-6 border border-gray-300"
+              >
                 <div className="h-24 w-24">
-                  <img
-                    className="w-full h-full"
-                    src={data.image}
-                    alt="..Loading"
-                  />
+                  <NavLink to={`/detail/${data.id}`}>
+                    <img
+                      className="w-full h-full"
+                      src={data.image}
+                      alt="..Loading"
+                    />
+                  </NavLink>
                 </div>
+
                 <p>{data.name}</p>
+
                 <div className="flex gap-1">
-                  <p className="text-gray-500" key={data.image}>
-                    {data.From}
-                  </p>
-                  <p className="text-gray-500" key={data.name}>
-                    {data.Price}
-                  </p>
+                  <p className="text-gray-500">{data.From}</p>
+                  <p className="text-gray-500">{data.Price}</p>
                 </div>
               </div>
             ))}

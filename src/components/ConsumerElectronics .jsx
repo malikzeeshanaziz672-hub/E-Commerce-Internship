@@ -1,6 +1,7 @@
 import React from "react";
 import outDoorImg from "../assets/Images/2899a4374c8412945ece65003461e7d1b12857d0.png";
 import ConsumerElectronicsData from "../JsonData/ConsumerElectronics.json";
+import { NavLink } from "react-router-dom";
 
 const ConsumerElectronics = () => {
   return (
@@ -30,7 +31,9 @@ const ConsumerElectronics = () => {
                   <p className="text-gray-500">{data.Price}</p>
                 </div>
                 <div className="w-21 h-21">
-                  <img className="w-full h-full" src={data.image} alt="" />
+                  <NavLink to={`/detail/${data.id}`}>
+                    <img className="w-full h-full" src={data.image} alt="" />
+                  </NavLink>
                 </div>
               </div>
             </div>
@@ -43,11 +46,13 @@ const ConsumerElectronics = () => {
             {ConsumerElectronicsData.map((data) => (
               <div className="flex flex-col text-center  justify-center items-center gap-2 h-50 pl-6 pr-6 border border-gray-300">
                 <div className="h-24 w-24">
-                  <img
-                    className="w-full h-full"
-                    src={data.image}
-                    alt="..Loading"
-                  />
+                  <NavLink to={`/detail/${data.id}`}>
+                    <img
+                      className="w-full h-full"
+                      src={data.image}
+                      alt="..Loading"
+                    />
+                  </NavLink>
                 </div>
                 <p>{data.name}</p>
                 <div className="flex gap-1">

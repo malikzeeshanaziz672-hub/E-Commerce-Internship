@@ -1,5 +1,6 @@
 import React from "react";
 import RecommendedItemsData from "../JsonData/RecommendedItem.json";
+import { NavLink } from "react-router-dom";
 
 const RecomendedItems = () => {
   return (
@@ -12,11 +13,13 @@ const RecomendedItems = () => {
         {RecommendedItemsData.map((item) => (
           <div className=" flex flex-col   key={item.image}  bg-white  justify-center items-center  mx-auto gap-8 h-80 sm:h-80 w-full  border border-gray-300">
             <div className="sm:h-40 sm:w-40 h-24 w-24 grid text-center mx-auto items-center justify-center">
-              <img
-                className="w-full h-full sm:h-36 sm:w-36 "
-                src={item.image}
-                alt="..Loading"
-              />
+              <NavLink to={`/detail/${item.id}`}>
+                <img
+                  className="w-full h-full sm:h-36 sm:w-36"
+                  src={item.image}
+                  alt="..Loading"
+                />
+              </NavLink>
             </div>
             <div className="pl-6">
               <p>{item.price}%</p>

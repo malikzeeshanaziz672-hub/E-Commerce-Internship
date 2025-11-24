@@ -1,54 +1,74 @@
 [
   {
+    "id": 4000,
     "image": "/Ritem2.png",
     "price": 23,
-    "name": "Jeans shorts for menblue color"
+    "name": "Jeans shorts for menblue color",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
 
   {
+    "id": 4001,
     "image": "/Ritem3.png",
     "price": 23,
-    "name": "Brown winter coatmedium size"
+    "name": "Brown winter coatmedium size",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4002,
     "image": "/Ritem4.png",
     "price": 23,
-    "name": "Jeans bag for travelfor men"
+    "name": "Jeans bag for travelfor men",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4003,
     "image": "/Ritem1.jpg",
     "price": 23,
-    "name": "T-shirts with multiple c"
+    "name": "T-shirts with multiple c",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4004,
     "image": "/Ritem5.png",
     "price": 23,
-    "name": "Leather wallet"
+    "name": "Leather wallet",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4005,
     "image": "/Canon camreras.png",
     "price": 23,
-    "name": "Canon camera black, 100x zoom"
+    "name": "Canon camera black, 100x zoom",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4006,
     "image": "/HeadPhones.png",
     "price": 23,
-    "name": "Headset for gamingwith mic"
+    "name": "Headset for gamingwith mic",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
 
   {
+    "id": 4007,
     "image": "/smart Watches.png",
     "price": 23,
-    "name": "Smartwatchsilver color modern"
+    "name": "Smartwatchsilver color modern",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4008,
     "image": "/Ritem6.png",
     "price": 23,
-    "name": "Blue wallet for menleather metarfial"
+    "name": "Blue wallet for menleather metarfial",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   },
   {
+    "id": 4009,
     "image": "/outdoor8.png",
     "price": 23,
-    "name": "Jeans bag for travelfor men"
+    "name": "Jeans bag for travelfor men",
+    "detail": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium, facere, nobis illo rerum eligendi sequi ipsa animi aspernatur beatae nemo repudiandae,  dolorem temporibus officia, eligendi nulla praesentium quis ab excepturi ipsam?"
   }
 ]

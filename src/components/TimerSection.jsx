@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import data from "../JsonData/TimerSection.json";
+import { NavLink } from "react-router-dom";
 
 const TimerSection = () => {
   const [leftTime, setLeftTime] = useState(29 * 24 * 60 * 60);
@@ -77,11 +78,19 @@ const TimerSection = () => {
           {data.map((item) => (
             <div className=" flex flex-col text-center key={item.image}   justify-center items-center mx-auto gap-2 h-50 sm:h-70 w-full pl-6 pr-6 border border-gray-300">
               <div className="h-24 w-24">
-                <img
+                <NavLink to={`/detail/${item.id}`}>
+                  <img
+                    className="w-full h-full"
+                    src={item.image}
+                    alt="..Loading"
+                  />
+                </NavLink>
+
+                {/* <img
                   className="w-full h-full"
                   src={item.image}
                   alt="..Loading"
-                />
+                /> */}
               </div>
               <p>{item.name}</p>
               <p className="text-[#EB001B] bg-[#FFE3E3] rounded-2xl w-10">
